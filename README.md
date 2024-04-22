@@ -1,1 +1,1 @@
-This code is based off of an existing project completed by Aleksander Haber, combined with some other tutorials on integrating the basic Cartpole environment from the OpenAI gymnasium package with the classic Atari game, Breakout. 
+This code is based off of an existing project completed by Aleksander Haber. It executes the training of a .keras file saved neural net trained in the Cartpole-V1 environment from openAI Gymnasium. The simulate_model class also creates a human render window that shows a comparison of the model with the same environment and wholly random actions.
